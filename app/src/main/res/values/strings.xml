@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiple Lanuage</string>
+    <string name="enter_you_email_adress">Enter You Email Adress</string>
+    <string name="enter_you_password">Enter You Password</string>
+    <string name="welcome">WELCOME</string>
+    <string name="change_language">Change Language</string>
+    <string name="login">Login</string>
+
+    <string name="this_is_home_screen_of_multilanuage_application">This is Home Screen of MultiLanuage application</string>
+    <string name="you_are_most_welcome">You are Most Welcome</string>
+</resources>

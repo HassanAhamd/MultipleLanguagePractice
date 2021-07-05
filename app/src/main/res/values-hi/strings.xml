@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+
+एकाधिक भाषा</string>
+
+    <string name="enter_you_email_adress">अपना ईमेल पता दर्ज करें</string>
+    <string name="enter_you_password">आप पासवर्ड दर्ज करें</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="login">लॉग इन करें</string>
+
+    <string name="this_is_home_screen_of_multilanuage_application">यह बहुभाषा अनुप्रयोग की होम स्क्रीन है</string>
+    <string name="you_are_most_welcome">आपका बहुत स्वागत है</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ایک سے زیادہ زبان</string>
+
+    <string name="enter_you_email_adress">ای میل ایڈریس درج کریں</string>
+    <string name="enter_you_password">اپنا پاس ورڈ درج کریں</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="change_language">زبان بدلیں</string>
+    <string name="login">سائن ان</string>
+
+    <string name="this_is_home_screen_of_multilanuage_application">یہ ملٹی لینگوئج ایپلی کیشن کی ہوم اسکرین ہے</string>
+    <string name="you_are_most_welcome">آپ کا استقبال ہے</string>
+</resources>

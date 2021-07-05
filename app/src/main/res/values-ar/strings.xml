@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عديد اللغات</string>
+
+        <string name="enter_you_email_adress">أدخل عنوان البريد الإلكتروني</string>
+        <string name="enter_you_password">أدخل كلمة المرور الخاصة بك</string>
+        <string name="welcome">أهلا بك</string>
+        <string name="change_language">تغيير اللغة</string>
+        <string name="login">تسجيل الدخول</string>
+
+    <string name="this_is_home_screen_of_multilanuage_application">هذه هي الشاشة الرئيسية لتطبيق </string>
+    <string name="you_are_most_welcome">اهلا وسهلا</string>
+
+</resources>
